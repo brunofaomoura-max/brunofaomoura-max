@@ -149,11 +149,12 @@
 ### Language Telemetry & GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brunofaomoura-max&theme=radical" alt="Language Telemetry by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunofaomoura-max&theme=radical" alt="Language Telemetry by Repos" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Language Telemetry by Commit" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Language Telemetry by Repos" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
+  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="Profile Stats" />
   <img src="https://streak-stats.demolab.com/?user=brunofaomoura-max&theme=radical&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&currStreakLabel=38BDF8&sideLabels=94A3B8&background=141321" alt="GitHub Streak" />
 </div>
 
